@@ -1,0 +1,13 @@
+C:\Users\isdev089\Desktop\Beginner Coding Sessions\Marnus\DevPlayground\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.exe
+C:\Users\isdev089\Desktop\Beginner Coding Sessions\Marnus\DevPlayground\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.deps.json
+C:\Users\isdev089\Desktop\Beginner Coding Sessions\Marnus\DevPlayground\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.json
+C:\Users\isdev089\Desktop\Beginner Coding Sessions\Marnus\DevPlayground\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.dev.json
+C:\Users\isdev089\Desktop\Beginner Coding Sessions\Marnus\DevPlayground\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.dll
+C:\Users\isdev089\Desktop\Beginner Coding Sessions\Marnus\DevPlayground\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.pdb
+C:\Users\isdev089\Desktop\Beginner Coding Sessions\Marnus\DevPlayground\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csprojAssemblyReference.cache
+C:\Users\isdev089\Desktop\Beginner Coding Sessions\Marnus\DevPlayground\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\isdev089\Desktop\Beginner Coding Sessions\Marnus\DevPlayground\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfoInputs.cache
+C:\Users\isdev089\Desktop\Beginner Coding Sessions\Marnus\DevPlayground\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfo.cs
+C:\Users\isdev089\Desktop\Beginner Coding Sessions\Marnus\DevPlayground\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.dll
+C:\Users\isdev089\Desktop\Beginner Coding Sessions\Marnus\DevPlayground\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.pdb
+C:\Users\isdev089\Desktop\Beginner Coding Sessions\Marnus\DevPlayground\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.genruntimeconfig.cache
